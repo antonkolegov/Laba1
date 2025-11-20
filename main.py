@@ -1,4 +1,3 @@
-# main.py
 from cinema import CinemaSystem, InvalidRatingError
 from data_manager import save_movies_to_json, load_movies_from_json, save_movies_to_xml, load_movies_from_xml
 

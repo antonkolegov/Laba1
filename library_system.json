@@ -1,0 +1,137 @@
+{
+  "cinema": {
+    "id": 1,
+    "name": "My Cinema",
+    "movies": [
+      {
+        "id": 1,
+        "title": "Dune",
+        "year": 2021,
+        "genres": [
+          "Sci-Fi"
+        ],
+        "reviews": [
+          {
+            "user_id": 1,
+            "rating": 9,
+            "comment": "Отличная адаптация."
+          },
+          {
+            "user_id": 2,
+            "rating": 8,
+            "comment": "Визуально впечатляет."
+          },
+          {
+            "user_id": 3,
+            "rating": 9,
+            "comment": "Лучший фильм года."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Interstellar",
+        "year": 2014,
+        "genres": [
+          "Sci-Fi",
+          "Drama"
+        ],
+        "reviews": [
+          {
+            "user_id": 2,
+            "rating": 10,
+            "comment": "Гениально."
+          },
+          {
+            "user_id": 4,
+            "rating": 8,
+            "comment": "Слишком длинный но красивый."
+          },
+          {
+            "user_id": 1,
+            "rating": 9,
+            "comment": "Супер."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "The Dark Knight",
+        "year": 2008,
+        "genres": [
+          "Action",
+          "Drama"
+        ],
+        "reviews": [
+          {
+            "user_id": 1,
+            "rating": 10,
+            "comment": "Лучший супергеройский фильм."
+          },
+          {
+            "user_id": 3,
+            "rating": 9,
+            "comment": "Легендарный."
+          },
+          {
+            "user_id": 4,
+            "rating": 8,
+            "comment": "Напряжённый и мрачный."
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Inception",
+        "year": 2010,
+        "genres": [
+          "Sci-Fi",
+          "Action"
+        ],
+        "reviews": [
+          {
+            "user_id": 2,
+            "rating": 9,
+            "comment": "Захватывающий сюжет."
+          },
+          {
+            "user_id": 1,
+            "rating": 10,
+            "comment": "Идеальный фильм."
+          },
+          {
+            "user_id": 3,
+            "rating": 8,
+            "comment": "Сложно но интересно."
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Spirited Away",
+        "year": 2001,
+        "genres": [
+          "Animation",
+          "Family"
+        ],
+        "reviews": [
+          {
+            "user_id": 4,
+            "rating": 10,
+            "comment": "Волшебная анимация."
+          },
+          {
+            "user_id": 2,
+            "rating": 9,
+            "comment": "Трогательная история."
+          },
+          {
+            "user_id": 3,
+            "rating": 8,
+            "comment": "Гениальный Миyадзаки."
+          }
+        ]
+      }
+    ]
+  }
+}

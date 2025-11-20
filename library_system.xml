@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<cinema_system>
+  <cinema id="1" name="My Cinema">
+    <movies>
+      <movie id="1" title="Dune" year="2021" genres="Sci-Fi">
+        <reviews>
+          <review user_id="1" rating="9" comment="Отличная адаптация."/>
+          <review user_id="2" rating="8" comment="Визуально впечатляет."/>
+          <review user_id="3" rating="9" comment="Лучший фильм года."/>
+        </reviews>
+      </movie>
+      <movie id="2" title="Interstellar" year="2014" genres="Sci-Fi,Drama">
+        <reviews>
+          <review user_id="2" rating="10" comment="Гениально."/>
+          <review user_id="4" rating="8" comment="Слишком длинный но красивый."/>
+          <review user_id="1" rating="9" comment="Супер."/>
+        </reviews>
+      </movie>
+      <movie id="3" title="The Dark Knight" year="2008" genres="Action,Drama">
+        <reviews>
+          <review user_id="1" rating="10" comment="Лучший супергеройский фильм."/>
+          <review user_id="3" rating="9" comment="Легендарный."/>
+          <review user_id="4" rating="8" comment="Напряжённый и мрачный."/>
+        </reviews>
+      </movie>
+      <movie id="4" title="Inception" year="2010" genres="Sci-Fi,Action">
+        <reviews>
+          <review user_id="2" rating="9" comment="Захватывающий сюжет."/>
+          <review user_id="1" rating="10" comment="Идеальный фильм."/>
+          <review user_id="3" rating="8" comment="Сложно но интересно."/>
+        </reviews>
+      </movie>
+      <movie id="5" title="Spirited Away" year="2001" genres="Animation,Family">
+        <reviews>
+          <review user_id="4" rating="10" comment="Волшебная анимация."/>
+          <review user_id="2" rating="9" comment="Трогательная история."/>
+          <review user_id="3" rating="8" comment="Гениальный Миyадзаки."/>
+        </reviews>
+      </movie>
+    </movies>
+  </cinema>
+</cinema_system>
